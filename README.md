@@ -13,7 +13,7 @@ Idée 3: Ambiance intéractive, sur l'isolation ou la sur stimulation, lumières
 ![Image](https://user-images.githubusercontent.com/90852900/187746472-2f9d48d4-a455-489c-94d8-15ee4a02c447.jpg)
 
 
-Idée 4: jeu intéractif sur le sol ou le mur. (soccer, pong, breakout, invader, jeu de chase: un perso ce cache dans la scène et il faut le trouver en déplaçant/dégagant les objets devant lui)!
+Idée 4: jeu intéractif sur le sol ou le mur. (soccer, pong, breakout, invader, jeu de chase: un perso ce cache dans la scène et il faut le trouver en déplaçant/dégagant les objets devant lui)! Écran tactile sur le mur ou le sol.
 ![Image](https://user-images.githubusercontent.com/90852900/187748858-edb4084e-4b8a-4fc9-aafe-f2846f38e163.jpg)
 https://momentfactory.com/work/all/all/play-2-at-tanween
 
